@@ -1,0 +1,144 @@
+.total-content{
+    width: 960px;
+    margin: 0 auto;
+}
+.main.content{
+    background-color: #ffffff;
+    border-color: #dddddd;
+    display:inline;
+}
+
+.my-nav-bar {
+    width: 960px;
+    height: 100px;
+    margin-top:0px;
+    float: left;
+    display: inline;
+    background-color: #ffffff;
+    font-family: georgia, times, "times new roman", serif;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #ccc;
+
+}
+
+.nomadtrader{
+    float: left;
+    display: inline;
+    padding: 20px;
+    font-size: 20px;
+    width: 250px;
+    background-color: #4aaaa5;
+    color:#ffffff;
+}
+
+.about{
+    float: right;
+    display: inline;
+    height: 20px;
+    padding: 20px;
+    color:#777777;
+    text-decoration: 0;
+}
+
+.portfolio{
+    float: right;
+    padding: 20px;
+    height:20px;
+    display: inline;
+    color:#777777;
+}
+
+.contact{
+    float: right;
+    display: inline;
+    height:20px;
+    padding:20px;
+    color:777777;
+}
+
+.about-me h1{
+font-weight: bold;
+font-size: x-large;
+color:#4aaaa5;
+text-decoration: underline;
+
+}
+
+.connecting {
+    width: 250px;
+    height: 200px;
+    float: right;
+    font-family: arial, "helvetica neue", helvetica, sans-serif;
+    max-width: 250px;
+    padding: 10px;
+    margin:10px;
+    background: #fff;
+    border: 1px solid #ddd; 
+}
+
+
+.about-me {
+    width: 500px;
+    height: 100%;
+    font-family: arial, "helvetica neue", helvetica, sans-serif;
+    float: left;
+    padding: 10px;
+    margin: 10px;
+    background: #fff;
+    border: 1px solid #ddd;  
+}
+
+
+.footer {
+    width: 960px;
+    height: 75px;
+    margin: 5px;
+    float: left;
+    background-color: #666666;
+    font-family: arial, "helvetica neue", helvetica, sans-serif;
+    padding: 20px;
+    clear: both;
+    font-size: 12px;
+    color: #ffffff;
+    text-align: center;
+    border-top: 8px solid #4aaaa5;
+    
+}
+.footer p{
+    padding:20px;
+}
+
+#github-icon {
+    width: 60px;
+    height: 60px;
+    margin-top: 15px;
+    margin-right: 5px;
+    float: right;
+}
+#linkedin-icon {
+    width: 60px;
+    height: 60px;
+    margin-top: 15px;
+    margin-right: 5px;
+    float: right;
+}
+#stackoverflow-icon {
+    width: 60px;
+    height: 60px;
+    margin-top: 15px;
+    margin-right: 5px;
+    float: right;
+}
+#nomadtrader-the-coder{
+    float: left;
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
+}
+.portfoliopic{
+    width: 200px;
+    height: 200px;
+    padding: 15px;
+}
+
